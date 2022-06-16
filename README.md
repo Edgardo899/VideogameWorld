@@ -3,7 +3,7 @@ App de PP3 del IFTS Nº18.
 
 # Anteproyecto
 
-El anteproyecto está definido en este [.docx](https://docs.google.com/document/d/1AaK_SgGezDPYhtTLjKdF6qqDEIqX6oPX/edit)
+El anteproyecto está definido en este [".docx"](https://docs.google.com/document/d/1AaK_SgGezDPYhtTLjKdF6qqDEIqX6oPX/edit).
 
 # Mockups
 
